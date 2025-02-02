@@ -1,0 +1,1 @@
+export 'package:general_app/core/config/firebase_options.dart';
